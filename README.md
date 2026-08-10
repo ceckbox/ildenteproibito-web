@@ -60,7 +60,6 @@ ildenteproibito-web/
 ├── functions/                 # Cloudflare Pages Functions (serverless)
 ├── public/                    # Public static files
 ├── src/                       # Source code
-├── CLAUDE.md                  # AI task specification
 └── CONTRIBUTORS_OUTREACH.md   # Contributor recruitment document
 ```
 
