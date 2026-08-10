@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://ildenteproibito.pages.dev/pfp1.png" alt="IL DENTE PROIBITO" width="100">
+<img src="https://ildenteproibito.pages.dev/pfp.png" alt="IL DENTE PROIBITO" width="100">
 
 # IL DENTE PROIBITO
 
