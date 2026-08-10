@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.discordapp.com/avatars/1233950558184800297/d9aba7c72c8a1551446f4c67049f5486.png?size=256" alt="IL DENTE PROIBITO" width="100">
+<img src="https://i.ibb.co/1tMSs1b9/pfp-photoaidcom-cropped.png" alt="IL DENTE PROIBITO" width="100">
 
 # IL DENTE PROIBITO
 
