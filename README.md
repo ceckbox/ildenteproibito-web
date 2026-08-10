@@ -84,7 +84,6 @@ The website is live and publicly accessible on [Cloudflare Pages](https://pages.
 | Ko-fi | [ko-fi.com/ildenteproibito](https://ko-fi.com/ildenteproibito) |
 | X | [@90Gattucio](https://x.com/90Gattucio) |
 | TikTok | [@xyz.amv.cc](https://www.tiktok.com/@xyz.amv.cc) |
-| Telegram | [Join](https://t.me/+AKZO7Y5buhw0ZjRk) |
 | Email | [ildenteproibito@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ildenteproibito@gmail.com) |
 | Discord | [Add as friend](https://discord.com/users/1233950558184800297) |
 | GitHub | [ildenteproibito/ildenteproibito-web](https://github.com/ildenteproibito/ildenteproibito-web) |
